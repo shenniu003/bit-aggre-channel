@@ -1,2 +1,4 @@
 # bit-aggre-channel
-digital coin aggre channels
+des：digital coin aggre channels
+
+channel include：binance、bitget、coinbase and soon
